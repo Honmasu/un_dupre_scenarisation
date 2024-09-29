@@ -15,6 +15,15 @@ Les visiteurs entrent dans un espace sombre où un chemin sinueux de filament lu
 
 ### Technologies
 
+- **Capteurs de mouvement** : Pour suivre et réagir aux déplacements des visiteurs, adaptant l'œuvre en temps réel.
+
+- **Projecteurs** : Pour afficher des visuels animés sur les survaces (mur et plancher), créant une dimension dynamique.
+
+- **Système audio immersif** : Diffusion de sons marins qui réagissent aux interactions des visiteurs.
+
 ### Outils
 
+- **Logiciel de projection** : Pour concevoir et contrôler les animations projetées. (TouchDesigner, madmapper)
+
+- **Interface de programmation** : Pour intégrer les capteurs de mouvement et les faire interagir avec les projections et le son. (arduino, unity)
 
