@@ -8,7 +8,7 @@ Les visiteurs entrent dans un espace sombre où un chemin sinueux de filament lu
 
 ### Ambiances
 
-- **Sombre et mystérieuse** : L'éclairage tamisé met en valeur les formes lumineuses et les projections.
+- **Sombre et mystérieuse** : L'éclairage sombre met en valeur les formes lumineuses et les projections.
 
 - **Apaisante et immersive** : Les sons de l'océan et les lumières douces créent une atmosphère relaxante
 
